@@ -1,0 +1,15 @@
+{
+  "name": "modify-xml-data",
+  "version": "1.0.0",
+  "description": "modify-xml-data",
+  "main": "modifyXmlData.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha tests/tests.js"
+  },
+  "author": "Amarnath Kolla",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
